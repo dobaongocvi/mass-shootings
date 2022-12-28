@@ -1,4 +1,4 @@
-# A Study on the Proximity of K-12 Schools that experienced Mass Shootings to the Nearest Trauma Center
+# Examining a violent epidemic: analyzing location of school mass shootings
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
